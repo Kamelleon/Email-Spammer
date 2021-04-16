@@ -1,5 +1,5 @@
-# Email-Spammer
-A program that spams mailbox with random messages
+# MailBomber
+A program that spams specified mailbox with messages that contains random numbers
 
 # Instructions
 
