@@ -8,7 +8,7 @@ A program that spams specified mailbox with messages that contains random number
 - Run script
 - Choose mailbox on which you created the account (Onet, Gmail, Interia)
 - Enter login and password to the account you want to send messages from
-- Set amount of mails to send
+- Set amount of mails to send to victim
 - Write victim email under "Set target" label
 - Click SAVE button
 - Click SPAM button
